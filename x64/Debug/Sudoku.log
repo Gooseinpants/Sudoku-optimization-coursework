@@ -1,0 +1,3 @@
+﻿  MainWindow.cpp
+C:\Users\andrey\Documents\Course_work\Sudoku\MainWindow.cpp(125,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Sudoku.vcxproj -> C:\Users\andrey\Documents\Course_work\x64\Debug\Sudoku.exe

@@ -1,0 +1,68 @@
+﻿  engine.cpp
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(47,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(53,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(56,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(76,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(78,24): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(171,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(175,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(178,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(179,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(192,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(209,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(227,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(246,24): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(257,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(259,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(261,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(267,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(269,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(306,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(308,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(320,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(322,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(327,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(360,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(362,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(367,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(400,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(402,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(455,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(457,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(449,10): warning C4101: c: неиспользованная локальная переменная
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(476,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(502,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(511,40): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(530,16): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(557,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(567,40): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(584,16): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(611,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(620,40): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(638,16): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(656,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(660,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(671,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(677,50): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(706,64): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(732,73): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(788,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(792,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(802,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(806,46): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(833,61): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(858,69): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(905,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(920,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(924,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(934,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(938,46): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(961,56): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(982,61): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(1021,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\andrey\Documents\Course_work\Sudoku\engine.cpp(1034,28): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 813 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Sudoku.vcxproj -> C:\Users\andrey\Documents\Course_work\x64\Release\Sudoku.exe
