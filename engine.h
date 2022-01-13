@@ -34,11 +34,12 @@ class sudoku_cl
         int q_naked(int q, int type, int i);
         int r_naked(int r, int type, int i);
         int c_naked(int c, int type, int i);
-        int q_hidden(int q);
-        int r_hidden(int r);
-        int c_hidden(int c);
-        set<int> set_naked;
-        vector<int> vector_i;
+        int q_hidden(int q, int number);
+        int r_hidden(int r, int number);
+        int c_hidden(int c, int number);
+        set <int> set_naked;
+        set <int> set_possible;
+        vector <int> vector_i;
     public:
         sudoku_cl(int inputed_n, int dif);
         ~sudoku_cl();
