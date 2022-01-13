@@ -63,7 +63,7 @@ sudoku_cl::sudoku_cl(int inputed_n, int dif)
 sudoku_cl::~sudoku_cl()
 {
     set_naked.clear();
-    set_hidden.clear();
+    set_possible.clear();
     vector_i.clear();
     possible.clear();
     change.clear();
@@ -871,7 +871,7 @@ int sudoku_cl::c_hidden(int c, int number)
         {
             if (set_possible.find(a) != set_possible.end())
             {
-                res |= с_hidden(с, a);
+                res |= c_hidden(c, a);
             }
         }
     }
