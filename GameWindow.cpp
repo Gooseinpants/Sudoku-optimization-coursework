@@ -5,7 +5,11 @@ GameWindow::GameWindow(int difficulty, int size, RenderWindow* rw, std::string p
 {
 	this->difficulty = difficulty;
 	this->size = size;
+	clock_t start_gen = clock();
 	sudoku = new sudoku_cl(size, difficulty + 1);
+	clock_t finished_gen = clock();
+	double time_gen = (double)((finished_gen-start_gen)/CLOCKS_PER_SEC);
+	printf("%f", time_gen);
 	font.loadFromFile(path + "fonts/Segoe UI.ttf");
 	blockTexture.loadFromFile(path + "textures/block.png");
 

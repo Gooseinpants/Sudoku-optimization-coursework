@@ -146,7 +146,8 @@ void sudoku_cl::gen_board()
         break;
     }
     int k;
-    for (k = 0; k < 100 && i >= number_of_hints;)
+    int k_limit = size * size;
+    for (k = 0; k < k_limit && i >= number_of_hints;)
     {
         int q = mersenne() % size + 1;
         int field = mersenne() % size + 1;
@@ -162,6 +163,7 @@ void sudoku_cl::gen_board()
                 i++;
                 k++;
             }
+            else k = 0;
         }
         else
             k++;
